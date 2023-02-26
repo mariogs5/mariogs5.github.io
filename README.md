@@ -26,7 +26,7 @@ alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" />
 
 ### Audio Formats
 
-For all the Sound Effects and Dialogues you sould use WAV format: 
+For all the Sound Effects and Dialogues you should use WAV format: 
 
 <img src="https://cdn-icons-png.flaticon.com/512/29/29707.png" 
 alt="IMAGE ALT TEXT HERE" width="400" height="360" border="10" />
