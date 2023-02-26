@@ -1,5 +1,6 @@
 # **Audio Bible**
 
+Hi. This page has been written by Mario Garcia Sutil, student of the CITM Balchelor’s Degree in Videogame Design and Development.
 ## How audio makes the game feel alive
 
 
@@ -15,3 +16,5 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 <a href="https://www.youtube.com/watch?v=qPL5Ex7U_DQ" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQspC0G9FGnJMf2M7X77zhGCfS3L0jN5c6_VA&usqp=CAU" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+## What is an Audio Bible
