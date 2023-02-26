@@ -4,7 +4,7 @@ Hi. This page has been written by [Mario Garcia Sutil](https://github.com/mariog
 
 ## What is an Audio Bible
 
-An audio bible is a script of all the sound effects, dialogue and music that appear in a game and the design and direction of all of those.
+An audio bible is a script of all the sound effects, dialogue and music that appear in a game and the design and direction of all those features.
 
 ### Audio Pillars
 
