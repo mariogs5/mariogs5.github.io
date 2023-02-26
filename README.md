@@ -25,8 +25,13 @@ alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" />
 
 
 ### Audio Formats
+
+For all the Sound Effects and Dialogues you sould use WAV format: 
+
 <img src="https://cdn-icons-png.flaticon.com/512/29/29707.png" 
 alt="IMAGE ALT TEXT HERE" width="400" height="360" border="10" />
+
+And for all the song you should use OGG format:
 
 <img src="https://cdn-icons-png.flaticon.com/512/29/29101.png" 
 alt="IMAGE ALT TEXT HERE" width="400" height="360" border="10" />
