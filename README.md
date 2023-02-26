@@ -24,7 +24,8 @@ An audio bible is a script of all the sound effects, dialogue and music that app
 
 
 ### Audio Formats
-![alt text](https://cdn-icons-png.flaticon.com/512/29/29707.png "Logo Title Text 1" width="480" height="360" border="10")
+img src="https://cdn-icons-png.flaticon.com/512/29/29707.png" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
 ### Folder Organization
 
