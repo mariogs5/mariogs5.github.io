@@ -20,7 +20,7 @@ An audio bible is a script of all the sound effects, dialogue and music that app
 **This is an example of an Audio Script:**
 
 <img src="https://www.resourceumc.org/-/media/umc-media/2021/01/25/19/17/02_example-script.ashx?la=en&hash=25C19B6B584C42D454BDDEAC7769354B5AC1B9D7" 
-alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" />
 
 
 
@@ -28,7 +28,7 @@ alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
 ### Audio Formats
 <img src="https://cdn-icons-png.flaticon.com/512/29/29707.png" 
-alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" />
 
 ### Folder Organization
 
