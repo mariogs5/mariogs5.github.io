@@ -2,8 +2,9 @@
 
 Hi. This page has been written by [Mario Garcia Sutil](https://github.com/mariogs5), student of the [CITM](https://www.citm.upc.edu) Balchelor’s Degree in Videogame Design and Development.
 
-## How audio makes the game feel alive
+## What is an Audio Bible
 
+## How audio makes the game feel alive
 
 Here we have two examples of how thanks to audio direction, a situation in a video game can be felt in a stronger way.
 
@@ -18,4 +19,4 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=qPL5Ex7U_DQ" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQspC0G9FGnJMf2M7X77zhGCfS3L0jN5c6_VA&usqp=CAU" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-## What is an Audio Bible
+
