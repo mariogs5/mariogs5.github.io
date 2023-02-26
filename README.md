@@ -1,6 +1,6 @@
 # **Audio Bible**
 
-Hi. This page has been written by [Mario Garcia Sutil](https://github.com/mariogs5), student of the [CITM](https://www.citm.upc.edu) Balchelor’s Degree in Videogame Design and Development.
+Hi. This page has been written by [Mario Garcia Sutil](https://github.com/mariogs5), student of the [CITM](https://www.citm.upc.edu) Bachelor’s Degree in Videogame Design and Development.
 
 ## What is an Audio Bible
 
