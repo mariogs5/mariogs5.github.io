@@ -7,15 +7,16 @@ Hi. This page has been written by [Mario Garcia Sutil](https://github.com/mariog
 An audio bible is a script of all the sound effects, dialogue and music that appear in a game and the design and direction of all those features.
 
 ### Audio Pillars
-
+---
 
 
 ### Audio Target
-
+---
 
 
 
 ### Audio Script 
+---
 
 **This is an example of an Audio Script:**
 
@@ -25,6 +26,7 @@ alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" />
 
 
 ### Audio Formats
+---
 
 For all the Sound Effects and Dialogues you should use WAV format: 
 
@@ -38,7 +40,7 @@ alt="IMAGE ALT TEXT HERE" width="400" height="360" border="10" />
 
 
 ### Folder Organization
-
+---
 
 ## How audio makes the game feel alive
 
