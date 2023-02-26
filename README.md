@@ -23,6 +23,9 @@ An audio bible is a script of all the sound effects, dialogue and music that app
 ### Audio Formats
 
 
+### Folder Organization
+
+
 ## How audio makes the game feel alive
 
 Here we have two examples of how thanks to audio direction, a situation in a video game can be felt in a stronger way.
