@@ -17,6 +17,8 @@ An audio bible is a script of all the sound effects, dialogue and music that app
 
 ### Audio Script 
 
+**This is an example of an Audio Script:**
+
 ![alt text](https://www.resourceumc.org/-/media/umc-media/2021/01/25/19/17/02_example-script.ashx?la=en&hash=25C19B6B584C42D454BDDEAC7769354B5AC1B9D7 "Logo Title Text 1")
 
 
