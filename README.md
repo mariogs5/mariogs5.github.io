@@ -41,7 +41,7 @@ They usually choose from 3 to 5 pillars, these have to describe emotions, settin
 ---
 
 Audio Target are the tools on which you rely to be able to create the audios once the Audio Pillars have been decided.
-This can be compared to making a kind of moodboard or sketch of how we want it to be. There are many ways to do it and [here](https://www.asoundeffect.com/game-audio-design-document/) is a website that can give you a little more information.
+This can be compared to making a kind of moodboard or sketch of how we want it to be. There are many ways to do it and [here](https://www.asoundeffect.com/game-audio-design-document/) is a website that can give you more information.
 
 ### Audio Script 
 ---
