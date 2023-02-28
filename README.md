@@ -68,10 +68,25 @@ And for all the song you should use OGG format:
 <img src="https://cdn-icons-png.flaticon.com/512/29/29101.png" 
 alt="IMAGE ALT TEXT HERE" width="400" height="360" border="10" />
 
+
+Tools you can use to find Audio:
+
+[Freesound](https://freesound.org) for SFX
+
+
+
 ## My template to create an Audio Bible
 
 [Here](https://docs.google.com/document/d/1GjBrgb7P78RwGFm4ugx_4FSEsnFs96b4rxtksttW25Q/edit?usp=sharing) you can click 
 with UPC mail to make a copy of my template and modify it as you like.
 
+
 ### Folder Organization
 ---
+
+## Information Used:
+
+
+
+
+
