@@ -85,12 +85,17 @@ with UPC mail to make a copy of my template and modify it as you like.
 ### Folder Organization
 ---
 
-## Information Used
+## Links
+
+
+[My Github Page.](https://github.com/mariogs5)
+
+[Audio Bible Template.](https://docs.google.com/document/d/1GjBrgb7P78RwGFm4ugx_4FSEsnFs96b4rxtksttW25Q/edit?usp=sharing)
 
 [Audio Design.](https://www.asoundeffect.com/game-audio-design-document/)
 
-[Dialogue Audio Bible.](https://www.asoundeffect.com/game-audio-design-document/)
+[Dialogue Audio Bible.](https://www.voices.com/blog/video-game-voice-over-sample-script-sound-stories/)
 
-
+[Web sites to find SFX.](https://www.buildbox.com/13-places-to-find-free-game-sound-effects/)
 
 
