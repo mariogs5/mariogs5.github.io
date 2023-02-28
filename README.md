@@ -43,6 +43,11 @@ alt="IMAGE ALT TEXT HERE" width="400" height="360" border="10" />
 ### Folder Organization
 ---
 
+## My template to create an Audio Bible
+
+[Here](https://docs.google.com/document/d/1GjBrgb7P78RwGFm4ugx_4FSEsnFs96b4rxtksttW25Q/edit?usp=sharing) you can click 
+with UPC mail to make a copy of my template and modify it as you like.
+
 ## How audio makes the game feel alive
 
 Here we have two examples of how thanks to audio direction, a situation in a video game can be felt in a stronger way.
