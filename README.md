@@ -8,7 +8,8 @@ An audio bible is a script of all the sound effects, dialogue and music that app
 
 ### Audio Pillars
 ---
-
+Audio Pillars are filters that describe the aesthetics of the game audio so that designers can create their compositions based on the same things.
+They usually choose from 3 to 5 pillars, these have to describe emotions, settings, moods... They must be able to make designers understand how their creations should be.
 
 ### Audio Target
 ---
