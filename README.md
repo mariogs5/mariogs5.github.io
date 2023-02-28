@@ -81,10 +81,6 @@ And to edit audio tracks, change the volume or format, I recommend [Audacity](ht
 [Here](https://docs.google.com/document/d/1GjBrgb7P78RwGFm4ugx_4FSEsnFs96b4rxtksttW25Q/edit?usp=sharing) you can click 
 with UPC mail to make a copy of my template and modify it as you like.
 
-
-### Folder Organization
----
-
 ## Links
 
 
