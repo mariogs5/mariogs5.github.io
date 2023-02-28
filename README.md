@@ -55,7 +55,7 @@ alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" />
 
 On [this](https://www.voices.com/blog/video-game-voice-over-sample-script-sound-stories/) website you can find portions of the Audio Bible, in this case they are dialogues.
 
-### Audio Formats
+### Audio Formats & Tools
 ---
 
 For all the Sound Effects and Dialogues you should use WAV format: 
