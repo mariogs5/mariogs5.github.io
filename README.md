@@ -8,8 +8,11 @@ Hi. This page has been written by [Mario Garcia Sutil](https://github.com/mariog
 ---
 
 -SFX (Sound effect).
+
 -UI SFX (User Interface Sound effect).
+
 -Ambiental music.
+
 -Dialogues.
 
 
