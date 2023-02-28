@@ -88,6 +88,7 @@ with UPC mail to make a copy of my template and modify it as you like.
 ## Information Used
 
 [Audio Design.](https://www.asoundeffect.com/game-audio-design-document/)
+
 [Dialogue Audio Bible.](https://www.asoundeffect.com/game-audio-design-document/)
 
 
