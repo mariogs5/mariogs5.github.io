@@ -50,6 +50,15 @@ with UPC mail to make a copy of my template and modify it as you like.
 
 ## How audio makes the game feel alive
 
+### Types of audio in videogames
+---
+
+-SFX (Sound effect).
+-UI SFX (User Interface Sound effect).
+-Ambiental music.
+-Dialogues.
+
+
 Here we have two examples of how thanks to audio direction, a situation in a video game can be felt in a stronger way.
 
 **Destiny 2**: Cayde's death (min 07:00 to 10:25) 
