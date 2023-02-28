@@ -71,9 +71,9 @@ alt="IMAGE ALT TEXT HERE" width="400" height="360" border="10" />
 
 Tools you can use to find Audio:
 
-[Freesound](https://freesound.org) for SFX
+[Here](https://www.buildbox.com/13-places-to-find-free-game-sound-effects/) is a list of 13 websites that you can use to find SFX.
 
-
+And to edit audio tracks, change the volume or format, I recommend [Audacity](https://audacity.es).
 
 ## My template to create an Audio Bible
 
