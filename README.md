@@ -50,7 +50,12 @@ They usually choose from 3 to 5 pillars, these have to describe emotions, settin
 <img src="https://www.resourceumc.org/-/media/umc-media/2021/01/25/19/17/02_example-script.ashx?la=en&hash=25C19B6B584C42D454BDDEAC7769354B5AC1B9D7" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" />
 
+### Example of an Audi Bile
+---
+Here is an example of a portion of an audio bible, in this case it is a dialogue:
 
+<img src="https://www.voices.com/blog/video-game-voice-over-sample-script-sound-stories/" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" />
 
 ### Audio Formats
 ---
