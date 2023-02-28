@@ -2,10 +2,7 @@
 
 Hi. This page has been written by [Mario Garcia Sutil](https://github.com/mariogs5), student of the [CITM](https://www.citm.upc.edu) Bachelor’s Degree in Videogame Design and Development.
 
-## How audio makes the game feel alive
-
-### Types of audio in videogames
----
+## Types of audio in videogames 
 
 -SFX (Sound effect).
 
@@ -15,6 +12,8 @@ Hi. This page has been written by [Mario Garcia Sutil](https://github.com/mariog
 
 -Dialogues.
 
+### How audio makes the game feel alive
+---
 
 Here we have two examples of how thanks to audio direction, a situation in a video game can be felt in a stronger way.
 
