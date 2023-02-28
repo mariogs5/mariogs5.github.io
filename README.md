@@ -53,7 +53,7 @@ alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" />
 ### Example of an Audio Bile
 ---
 
-On [this](https://www.voices.com/blog/video-game-voice-over-sample-script-sound-stories/) website you can find portions of the audio bible, in this case they are dialogues.
+On [this](https://www.voices.com/blog/video-game-voice-over-sample-script-sound-stories/) website you can find portions of the Audio Bible, in this case they are dialogues.
 
 ### Audio Formats
 ---
